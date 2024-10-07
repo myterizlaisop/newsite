@@ -5,7 +5,7 @@ const Content = () => {
         <div className="relative ">
           <Image
             src="/blog.jpeg"
-            width={1200}
+            width={1216}
             height={0}
             className="h-[600px] rounded-xl"
           />

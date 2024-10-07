@@ -1,10 +1,8 @@
 import Allitem from "@/components/allitem";
-
-
 const Site = () => {
   return (
     <>
-<Allitem/>
+      <Allitem />
     </>
   );
 };

@@ -1,17 +1,25 @@
-import Allcard from "./allblogcard";
+import Card from "./card";
+
 
   const Allblogplus = () => {
     return (
       <>
-        <div className="mb-[20px]">
-          <Allcard />
+        <div className="flex gap-[16px]">
+          <Card />
+          <Card />
+          <Card />
         </div>
-        <div className="mb-[20px]">
-          <Allcard />
+        <div className="flex gap-[16px] mb-[20px] mt-[20px]">
+          <Card />
+          <Card />
+          <Card />
         </div>
-        <div className="mb-[20px]">
-          <Allcard />
+        <div className="flex gap-[16px]">
+          <Card />
+          <Card />
+          <Card />
         </div>
+
       </>
     );
   }
