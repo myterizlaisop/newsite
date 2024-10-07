@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         <div className="border-y mb-[20px] mt-[20px] w-[1216px] mx-auto"></div>
         <div className="flex gap-[620px] pb-[70px] justify-center">
-          <div className="flex justi">
+          <div className="flex ">
             <div>
               <Image src="/Logo (3).png" width={48} height={48} />
             </div>
