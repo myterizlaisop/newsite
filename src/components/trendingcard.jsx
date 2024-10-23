@@ -1,5 +1,8 @@
 import Image from "next/image";
-const TrendingCard = () => {
+
+
+const TrendingCard =  () => {
+
   return (
     <div className="bg-white w-[293px] h-[320px]  relative">
       <Image
